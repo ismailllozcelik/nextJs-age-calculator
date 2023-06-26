@@ -20,7 +20,7 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ## Screen
 
-![Örnek Resim](./assets/screen-date.PNG)
+![Örnek Resim](./assets/screen-date-2.PNG)
 
 ## Learn More
 
