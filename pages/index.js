@@ -2,7 +2,6 @@ import Head from 'next/head';
 import styles from '../styles/Home.module.css';
 import { Button } from 'primereact/button';
 import 'primereact/resources/themes/lara-light-indigo/theme.css';
-import Moment from 'react-moment';
 import { Calendar } from 'primereact/calendar';
 import { useState } from 'react';
 import moment from 'moment';
